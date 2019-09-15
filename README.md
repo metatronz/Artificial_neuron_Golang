@@ -1,0 +1,1 @@
+Artificial neuron represented in golang
